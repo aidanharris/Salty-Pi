@@ -13,7 +13,7 @@ sudo docker run -it --rm aidanharris/saltypi-ubuntu-14.04 /bin/bash
 ## Building Instructions:
 
 ```
-git clone https://github.com/aidanharris/saltypi.git
-cd Salty-Pi
+git clone https://github.com/aidanharris/salty-pi.git
+cd salty-pi
 sudo docker build -t aidanharris/saltypi-ubuntu-14.04 .
 ```
